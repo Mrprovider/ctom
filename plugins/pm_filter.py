@@ -1345,11 +1345,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "KUSHALHK":
         buttons = [[
-            InlineKeyboardButton('Add Button', url='t.me/KUSHALHK'),
-            InlineKeyboardButton('Add Button', url='t.me/KUSHALHK')
+            InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒', url='t.me/TG_UPDATES1'),
+            InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋', url='t.me/TG_LINKS_CHANNEL')
         ],[
-            InlineKeyboardButton('Add Button', url='t.me/KUSHALHK'),
-            InlineKeyboardButton('Add Button', url='t.me/KUSHALHK')
+            InlineKeyboardButton('𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐏', url='t.me/movies_hub_official2'),
+            InlineKeyboardButton('𝐎𝐖𝐍𝐄𝐑😎', url='t.me/KUSHALHK')
         ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')
         ]]
